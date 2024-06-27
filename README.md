@@ -27,7 +27,7 @@
 Скчайте репозиторий по ссылке:  
 
 ```
-https://drive.google.com/drive/folders/18bXlXmzx2b9qlBKCjEv2QVRXVwPYTmV7?usp=drive_link
+https://disk.yandex.ru/d/ksVNpGy8sbKlbw
 ```
 
 ### Произвести небольшие настройки :wrench: 
